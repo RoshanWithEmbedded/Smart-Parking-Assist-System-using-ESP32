@@ -39,16 +39,16 @@ A real-time parking assistance system using ESP32, HC-SR04 ultrasonic sensor, an
 
 | Component | Quantity | Purpose | Approx. Cost |
 |-----------|----------|---------|---------------|
-| ESP32 Development Board | 1 | Main controller | $5-10 |
-| Ultrasonic Sensor (HC-SR04) | 1 | Distance measurement | $2-3 |
-| RGB LED (Common Cathode) | 1 | Visual indicator | $0.50 |
-| 100Ω Resistors | 3 | Current limiting for RGB LED | $0.10 |
-| Buzzer (5V) | 1 | Audio alert | $1-2 |
-| Breadboard | 1 | Prototyping | $3-5 |
-| Jumper Wires | 10-15 | Connections | $2-3 |
-| USB Cable | 1 | Power & programming | $2-3 |
+| ESP32 Development Board | 1 | Main controller | 400 Rs |
+| Ultrasonic Sensor (HC-SR04) | 1 | Distance measurement | 250 Rs |
+| RGB LED (Common Cathode) | 1 | Visual indicator | 5 Rs |
+| 100Ω Resistors | 5 | Current limiting for RGB LED | 2 Rs each |
+| Buzzer (5V) | 1 | Audio alert | 50 Rs |
+| Breadboard | 1 | Prototyping | 120 Rs |
+| Jumper Wires | 10-15 | Connections | 40 Rs |
+| USB Cable | 1 | Power & programming | 150 Rs |
 
-**Total Cost:** ~$15-25
+**Total Cost:** ~1000 Rs
 
 ### Optional Components
 
