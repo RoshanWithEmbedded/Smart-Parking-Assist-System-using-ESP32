@@ -1,0 +1,32 @@
+# Arduino IDE build files
+*.ino.prepro
+*.ino.deps
+*.ino.with_bootloader.bin
+*.elf
+*.hex
+*.bin
+
+# Build directories
+build/
+.pio/
+.pioenvs/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Secrets (IMPORTANT - don't commit!)
+secrets.h
+*.password
+
+# Temporary files
+*.log
+*.tmp
+serial_dump.txt
