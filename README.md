@@ -92,64 +92,59 @@ A real-time parking assistance system using ESP32, HC-SR04 ultrasonic sensor, an
 
 🚀 Installation Steps
 
-Step 1: Install Arduino IDE
+### Step 1: Install Arduino IDE
+Download Arduino IDE from: https://www.arduino.cc/en/software
 
-Download Arduino IDE from:
-https://www.arduino.cc/en/software
+### Step 2: Install ESP32 Board
+1. Go to: **File → Preferences**
+2. Add the following URL to "Additional Boards Manager URLs":
+   https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
-Step 2: Install ESP32 Board
-Go to:
-File → Preferences
+3. Go to: **Tools → Board → Boards Manager**
+4. Search for: **ESP32 by Espressif Systems**
+5. Click **Install**
 
-Add:
+### Step 3: Upload Code
+1. Select Board → **ESP32 Dev Module**
+2. Select the correct **COM Port**
+3. Click **Upload**
 
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-
-Then:
-
-Tools → Board → Boards Manager
-
-Search:
-
-ESP32 by Espressif Systems
-
-Install it.
-
-Step 3: Upload Code
-Select Board → ESP32 Dev Module
-Select COM Port
-Click Upload
-
+---
 
 📈 Applications
 
-Smart car reverse parking
-Obstacle detection system
-Garage wall distance alert
-Robot obstacle sensing
-Industrial safety monitoring
+- Smart car reverse parking
+- Obstacle detection system
+- Garage wall distance alert
+- Robot obstacle sensing
+- Industrial safety monitoring
+
+---
 
 🚀 Future Improvements
 
-OLED display for live distance
-Blynk mobile monitoring
-PWM buzzer tone control
-Automotive reverse parking support
-Voice alert system
+- OLED display for live distance
+- Blynk mobile monitoring
+- PWM buzzer tone control
+- Automotive reverse parking support
+- Voice alert system
 
+---
 
 👨‍💻 Author
 
-Roshan Chavan
+**Roshan Chavan**  
+Embedded Systems Engineer  
+Interested in Embedded Systems, IoT, ARM, RTOS, Linux
 
-Embedded Systems Engineer
-Interested in Automotive Embedded Systems, IoT, ARM, RTOS, Linux
+🔗 LinkedIn: [[roshan-chavan](https://linkedin.com/in/roshan-chavan)](https://www.linkedin.com/in/roshan-chavan-256835194/)
 
-
-LinkedIn: [roshan-chavan]
+---
 
 ⭐ Support
 
-If you found this project useful, please give it a Star ⭐ on GitHub.
+If you found this project useful, please give it a **Star** ⭐ on GitHub.
 
-Built with ❤️ using ESP32
+---
+
+*Built with ❤️ using ESP32*
